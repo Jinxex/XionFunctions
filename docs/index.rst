@@ -39,5 +39,5 @@ Help
 -----
 
 - Are you searching something specific? Try your luck with :ref:`genindex`.
-- You have Discord? Write a dm to **konnija**.
+- You have Discord? Write a dm to **xeno_kawi**.
 - You can get examples at :doc:`xionfunctions/examples`

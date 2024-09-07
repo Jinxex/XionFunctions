@@ -13,7 +13,7 @@ sys.path.insert(0,os.path.abspath("../"))
 
 from xionfunctions import __version__
 
-project = 'xion-functions'
+project = 'xionfunctions'
 copyright = '2024, XENO'
 author = 'XENO'
 release = __version__
