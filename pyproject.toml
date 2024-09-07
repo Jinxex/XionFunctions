@@ -9,7 +9,7 @@ authors = [
     { name = "XENO", email="littxleace@gmail.com" }
 ]
 classifiers = [
-    "Development Status :: 5 - Beta",
+    "Development Status :: 4 - Beta",
     "License :: OSI Approved :: MIT License",
     "Intended Audience :: Developers",
     "Operating System :: OS Independent",
