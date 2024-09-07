@@ -1,0 +1,33 @@
+[project]
+name="xionfunctions"
+description="A lib with python function improvements"
+requires-python = ">=3.9"
+license = {text="MIT"}
+readme = "README.md"
+keywords = ["functions", "improvements", "python-functions"]
+authors = [
+    { name = "XENO", email="littxleace@gmail.com" }
+]
+classifiers = [
+    "Development Status :: 5 - Beta",
+    "License :: OSI Approved :: MIT License",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12"
+]
+
+dynamic = ["dependencies", "version"]
+
+[tool.setuptools.dynamic]
+version = {attr = "xionfunctions.__version__"}
+dependencies = {file = "requirements.txt"}
+
+[project.urls]
+GitHub = "https://github.com/Jinxex/XionFunctions"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
