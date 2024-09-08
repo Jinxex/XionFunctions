@@ -17,6 +17,7 @@ This is the documentation for **Xionfunctions**, an easy-to-use extension for Di
    xionfunctions/textfunctions
    xionfunctions/timefunctions
    xionfunctions/userinputfunctions
+    xionfunctions/webfunctions
 
 
 Getting started
